@@ -1,0 +1,17 @@
+{
+  "name": "game-data-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron M. Trovillion",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "boardgamegeek": "^0.5.5",
+    "parcel": "^2.0.0"
+  }
+}
