@@ -12,6 +12,9 @@
   "dependencies": {
     "axios": "^0.24.0",
     "boardgamegeek": "^0.5.5",
-    "parcel": "^2.0.0"
+    "fast-xml-parser": "^3.21.1",
+    "he": "^1.2.0",
+    "parcel": "^2.0.0",
+    "xml2json": "^0.12.0"
   }
 }
